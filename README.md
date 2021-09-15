@@ -8,7 +8,7 @@ To test the react app unit tests and end-to-end (E2E) tests with cypress are als
 # Start the application locally
 To start an application:
 
-# First, you need to start the backend, to do so, head to part4. Check the README file
+First, you need to start the backend, to do so, head to part4. Check the README file
 
 # Install dependencies
 $ npm install
