@@ -17,6 +17,8 @@ $ npm install
 $ npm start
 
 # For running E2E tests
-$ npm run cypress:open        # Then, click on run all specs
+$ npm run cypress:open      
+
+Then, click on run all specs
 
 You can then access the app on : http://localhost:3000
